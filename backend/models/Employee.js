@@ -11,10 +11,6 @@ const employeeSchema = new mongoose.Schema({
   role: {
     type: String,
     required: [true, 'Employee role is required'],
-    enum: {
-      values: ['Developer', 'Designer', 'Manager', 'Analyst', 'Intern'],
-      message: 'Role must be one of: Developer, Designer, Manager, Analyst, Intern'
-    },
     trim: true
   },
   years: {
