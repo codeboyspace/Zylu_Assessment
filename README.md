@@ -8,7 +8,7 @@ Hey there! 👋 This is my assessment submission – a full-stack employee manag
 ![Employee Management App Home Page](app_home_page.jpg)
 
 ### App Flow Demo
-<video width="100%" controls>
+<video width="50%" controls>
   <source src="app_flow.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
