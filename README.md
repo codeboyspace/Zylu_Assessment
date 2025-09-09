@@ -2,6 +2,19 @@
 
 Hey there! 👋 This is my assessment submission – a full-stack employee management system that I built with passion and a dash of tech wizardry. Hope you enjoy reviewing it as much as I enjoyed crafting it! Fingers crossed you pick this code guy for the next round. 😉
 
+## Application Screenshots 📸
+
+### Home Page
+![Employee Management App Home Page](app_home_page.jpg)
+
+### App Flow Demo
+<video width="100%" controls>
+  <source src="app_flow.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+*Click on the video above to see the complete app flow demonstration!*
+
 ## Backend: The Engine 🛠️
 
 Powered by **Node.js + Express.js v5** with **MongoDB Atlas** for cloud-scaled data persistence. Mongoose ODM ensures type-safe, validated CRUD operations on employee records – because who likes buggy data?
