@@ -25,14 +25,3 @@ Crafted in **Flutter 3.8.1** with Dart, featuring a dark-themed neumorphic UI op
 - Responsive design with offline persistence
 - Material Design with Google Fonts
 
-**Architecture:** Modular structure with models, services, screens, and widgets for maintainable, scalable code. Built to last.
-
-## Synergy: Backend ↔ Frontend 🔄
-
-The backend serves as the data powerhouse, exposing RESTful APIs that the frontend consumes via HTTP requests. This decoupled architecture enables independent scaling, testing, and deployment – a microservices-inspired approach in a compact project. It's like peanut butter and jelly, but for code!
-
-**Quick Start:**
-1. Backend: `npm install && npm start` (ensure MongoDB Atlas connection – don't forget your keys!)
-2. Frontend: `flutter pub get && flutter run` (configure API base URL in config.dart – easy peasy)
-
-Dive into the code – where backend reliability meets frontend elegance! If you like what you see, let's chat. I'm excited to bring this energy to your team! 🚀
